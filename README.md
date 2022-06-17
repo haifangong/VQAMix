@@ -19,8 +19,6 @@ Please cite this paper in your publications if it helps your research
 }
 ```
 
-## Note: You should replace the original imagenet pretrained encoder with the multi-task pretrained encoder in the drive or trained by yourself !!!
-
 ![Overview of the vqamix framework](./fig/vqamix.jpg)
 In VQAMix, two image-question pairs {Vi, Qi} and {Vj, Qj} are mixed. When the mixed sample is  sent to the VQA model, the linguistic feature extracted from Qi will interact with the visual feature extracted from Vj, which constructs a new connection {Vj, Qi}. So is {Vi, Qj}. Thus, the label for the mixed image-question pair consists of four answer labels (Yi for {Vi, Qi}, Yj for {Vj, Qj}, Yk for {Vi, Qj} and Yl for {Vj, Qi}). And the weights of those answer labels are the probabilities of occurrence of those imagequestion pairs. The answer A is encoded as a one-hot vector Y.
 
