@@ -33,8 +33,8 @@ torchvision                 0.6+
 
 ### Dataset and Pre-trained Models
 
-The processed data should be downloaded via [link](https://pan.baidu.com/s/1U4ohCzTkSVv4My5mcxUrJg) with the extract code: `i800`. 
-Or you can download the data from the previous work `MMQ`.[link](https://github.com/aioz-ai/MICCAI21_MMQ) The downloaded file should be extracted to `data_RAD/` and `data_PATH` directory.
+The processed data should be downloaded via [Baidu Drive](https://pan.baidu.com/s/1U4ohCzTkSVv4My5mcxUrJg) with the extract code: `i800`. 
+Or you can download the data from the previous work `MMQ`[link](https://github.com/aioz-ai/MICCAI21_MMQ). The downloaded file should be extracted to `data_RAD/` and `data_PATH` directory.
 
 The trained models are available at [Baidu Drive](https://pan.baidu.com/s/1zfgNMOcthRW1guG37YPw_g) with extract code: `6su8`.
 
