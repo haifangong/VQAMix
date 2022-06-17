@@ -41,7 +41,7 @@ Just run the `run_rad.sh` `run_path.sh` for training and evaluation.
 The result json file can be found in the directory `results/`.
 
 ### Comaprison with the sota
-![A novel multi-task pre-training framework](./fig/sota.jpg)
+![Comparison](./fig/sota.jpg)
 
 
 ### License
